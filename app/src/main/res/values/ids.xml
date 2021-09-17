@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="list_past_match" type="id"/>
+    <item name="list_next_match" type="id"/>
+    <item name="list_team" type="id"/>
+    <item name="list_match_favorite" type="id"/>
+    <item name="list_team_favorite" type="id"/>
+    <item name="list_player" type="id"/>
+ </resources>
